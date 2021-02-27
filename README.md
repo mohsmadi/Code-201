@@ -5,7 +5,7 @@
 
 | Lab              | Link        |
 | -----------                    | ----------- |
-| reading-notes-repository      | Title       |
+| Read 01     | https://mohsmadi.github.io/Code-201-reading-notes/class01      |
 | Paragraph   | Text        |
 | Header      | Title       |
 | Paragraph   | Text        |
