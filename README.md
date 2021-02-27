@@ -5,7 +5,7 @@
 
 | Lab              | Link        |
 | -----------                    | ----------- |
-| Read 01     | https://mohsmadi.github.io/Code-201-reading-notes/class01      |
+| Read 01     | [Read 01](https://mohsmadi.github.io/Code-201-reading-notes/class01).     |
 |    |         |
 |       |        |
 |    |         |
