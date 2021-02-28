@@ -1,0 +1,72 @@
+
+body {
+    background-color: lightblue;
+  }
+  .p1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+
+  #part2{
+    border: rgb(240, 149, 14);
+    border-radius: 20px;
+    
+  }
+  .nav-part1{
+    font-weight: bolder;
+    display: inline-block;
+    margin: 15px;
+  }
+ 
+  a:visited{
+    color: rgb(235, 227, 231);
+  }
+  a{
+    text-decoration: none;
+  
+  }
+  nav{
+    background-color: gray;
+  }
+  
+  #greet{
+    border: sienna;
+    border-style: solid;
+    padding: 15px;
+    display: inline-block;
+  }#demo{
+    border: seagreen;
+    border-radius: 20px;
+    border-style: groove;
+  }
+  .nav-item{
+    font-weight: bolder;
+    display: inline-block;
+    margin: 10px;
+  }
+  /* a:link{
+    color: hotpink;
+  } */
+  a:visited{
+    color: rgb(83, 187, 123);
+    size: 50px;
+  }
+  a{
+    text-decoration: none;
+  
+
+  
+  #greet{
+    border: sienna;
+    border-style: solid;
+    padding: 15px;
+    display: inline-block;
+  }
+ 
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+  
