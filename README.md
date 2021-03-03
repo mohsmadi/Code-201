@@ -8,7 +8,7 @@
 | Read 01     | [class01](https://mohsmadi.github.io/Code-201-reading-notes/class01)    |
 |    Read 02 | [class-02](https://mohsmadi.github.io/Code-201-reading-notes/class-02)    |
 |    Read 03   |  [class-03](https://mohsmadi.github.io/Code-201-reading-notes/class-03)      |
-|    |         |
+|   Read 04 |   [class-04](https://mohsmadi.github.io/Code-201-reading-notes/class-04)      |
 |       |        |
 |    |         |
 |       |        |
