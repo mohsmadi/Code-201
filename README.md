@@ -11,7 +11,7 @@
 |   Read 04 |   [class-04](https://mohsmadi.github.io/Code-201-reading-notes/class-04)      |
 |   Read 05 |   [class-05](https://mohsmadi.github.io/Code-201-reading-notes/class-05)
 |   Read 06 |   [class-06](https://mohsmadi.github.io/Code-201-reading-notes/class-06)
-|       |        |
+|   Read 07 |   [class-07](https://mohsmadi.github.io/Code-201-reading-notes/class-07)
 |    |         |
 |       |        |
 |    |         |
