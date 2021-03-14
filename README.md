@@ -14,12 +14,7 @@
 |   Read 07 |   [class-07](https://mohsmadi.github.io/Code-201-reading-notes/class-07)
 |   Read 08 |   [class-08](https://mohsmadi.github.io/Code-201-reading-notes/class-08)
 |   Read 09 |   [class-09](https://mohsmadi.github.io/Code-201-reading-notes/class-09)
-[class-10](https://mohsmadi.github.io/Code-201-reading-notes/class-10)
-|    |         |
-|       |        |
-|    |         |
-|       |        |
-|    |         |
-|       |        |
+|   Read 10 |   [class-10](https://mohsmadi.github.io/Code-201-reading-notes/class-10)
+|   Read 11 | [class-11](https://mohsmadi.github.io/Code-201-reading-notes/class-11)
 
 
