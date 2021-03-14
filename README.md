@@ -16,5 +16,5 @@
 |   Read 09 |   [class-09](https://mohsmadi.github.io/Code-201-reading-notes/class-09)
 |   Read 10 |   [class-10](https://mohsmadi.github.io/Code-201-reading-notes/class-10)
 |   Read 11 | [class-11](https://mohsmadi.github.io/Code-201-reading-notes/class-11)
-
+|   Read 12 | [class-12](https://mohsmadi.github.io/Code-201-reading-notes/class-12)
 
